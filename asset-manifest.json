@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coffeelandingpage/static/css/main.507cfcb1.css",
+    "main.js": "/coffeelandingpage/static/js/main.86d8e8c9.js",
+    "static/js/453.72df74b8.chunk.js": "/coffeelandingpage/static/js/453.72df74b8.chunk.js",
+    "index.html": "/coffeelandingpage/index.html",
+    "main.507cfcb1.css.map": "/coffeelandingpage/static/css/main.507cfcb1.css.map",
+    "main.86d8e8c9.js.map": "/coffeelandingpage/static/js/main.86d8e8c9.js.map",
+    "453.72df74b8.chunk.js.map": "/coffeelandingpage/static/js/453.72df74b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.507cfcb1.css",
+    "static/js/main.86d8e8c9.js"
+  ]
+}
