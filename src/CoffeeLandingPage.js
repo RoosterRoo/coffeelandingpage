@@ -68,6 +68,11 @@ const CoffeeLandingPage = () => {
           <h2>The Mix</h2>
           <p>Silky milk and raw sugar to finish the masterpiece.</p>
         </div>
+        <div style={styles.sectionHeader}>
+          <span>05</span>
+          <h2>Have a sip!</h2>
+          <p>Enjoy your day!</p>
+        </div>
       </nav>
 
       {/* Invisible sections to provide scroll height */}
