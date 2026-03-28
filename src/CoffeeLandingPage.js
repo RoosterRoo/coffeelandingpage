@@ -118,7 +118,7 @@ const styles = {
     padding: '10vh 5% 10vh 0',
     display: 'flex',
     flexDirection: 'column',
-    gap: '150vh', // Large gap to space headers out along the scroll
+    gap: '200vh', // Large gap to space headers out along the scroll
   },
   sectionHeader: {
     color: '#fff',
